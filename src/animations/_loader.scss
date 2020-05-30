@@ -1,0 +1,35 @@
+// .loader {
+//   display: flex;
+//   justify-content: space-evenly;
+//   margin-bottom: 30px;
+//   margin-top: 40px;
+
+//   .element {
+//     background-color: #1e5530;
+//     height: 30px;
+//     width: 30px;
+//     border-radius: 50%;
+
+//   }
+// }
+
+
+.loader {
+  margin-top: 300px;
+  .element {
+    background-color: #1e5530;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;  
+    display:inline-block;
+    margin-right: 10px;
+  }
+}
+
+
+
+.button-container {
+  button {
+    margin-right: 20px;
+  }
+}
